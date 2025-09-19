@@ -1,1 +1,1 @@
-https://apikariya.gq/myads/upload/myads.zip
+https://raw.githubusercontent.com/mrghozzi/myads_check_updates/main/updates/myads-3.2.0.zip
