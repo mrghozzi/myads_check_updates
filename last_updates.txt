@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/mrghozzi/myads_check_updates/main/updates/myads-3.2.0.zip
+https://github.com/mrghozzi/myads/archive/refs/tags/v4.0.0.zip
