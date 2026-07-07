@@ -1,0 +1,124 @@
+﻿{
+    "items":  [
+                  {
+                      "name":  "AI Ad Copywriter",
+                      "slug":  "ai-ad-copywriter",
+                      "version":  "1.2.0",
+                      "author":  "MrGhozzi",
+                      "description":  "Generate catchy ad titles and descriptions using Gemini 3 Flash \u0026 Groq AI.",
+                      "min_myads":  "4.3.0",
+                      "product_url":  "https://github.com/mrghozzi/ai-ad-copywriter",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/ai-ad-copywriter/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/ai-ad-copywriter/releases/latest/download/ai-ad-copywriter.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "AI Member",
+                      "slug":  "ai-member",
+                      "version":  "1.3.0",
+                      "author":  "MrGhozzi",
+                      "description":  "An autonomous AI bot that acts as a platform member (posts, replies to messages, comments, and generates images).",
+                      "min_myads":  "4.3.4",
+                      "product_url":  "https://github.com/mrghozzi/ai-member",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/ai-member/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/ai-member/releases/latest/download/ai-member.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Arabic Encoding Fixer",
+                      "slug":  "arabic-fixer",
+                      "version":  "2.3",
+                      "author":  "MrGhozzi",
+                      "description":  "Fixes Arabic text mojibake inherited from v3.x.x latin1 databases. Go to /admin/arabic-fixer to run the fix.",
+                      "min_myads":  "4.3.3",
+                      "product_url":  "https://github.com/mrghozzi/arabic-fixer",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/arabic-fixer/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/arabic-fixer/releases/latest/download/arabic-fixer.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Groq AI Member",
+                      "slug":  "groq-ai-member",
+                      "version":  "1.3.1",
+                      "author":  "MrGhozzi",
+                      "description":  "An autonomous AI bot that uses Groq Cloud API to act as a platform member (posts, replies, and comments).",
+                      "min_myads":  "4.3.4",
+                      "product_url":  "https://github.com/mrghozzi/groq-ai-member",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/groq-ai-member/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/groq-ai-member/releases/latest/download/groq-ai-member.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Groq AI Members",
+                      "slug":  "groq-ai-members",
+                      "version":  "1.0.2",
+                      "author":  "MrGhozzi",
+                      "description":  "An autonomous AI bot system that uses Groq Cloud API to act as multiple platform members (posts, replies, and comments).",
+                      "min_myads":  "4.3.6",
+                      "product_url":  "https://github.com/mrghozzi/groq-ai-members",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/groq-ai-members/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/groq-ai-members/releases/latest/download/groq-ai-members.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Broken Link Checker",
+                      "slug":  "link-checker",
+                      "version":  "1.1.0",
+                      "author":  "MrGhozzi",
+                      "description":  "Scans all external URLs across Directory, Store, Banner Ads, Link Ads, Smart Ads, and Visit Exchange to detect broken links. Access it at /admin/link-checker.",
+                      "min_myads":  "4.3.3",
+                      "product_url":  "https://github.com/mrghozzi/link-checker",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/link-checker/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/link-checker/releases/latest/download/link-checker.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "MyStatistics",
+                      "slug":  "my-statistics",
+                      "version":  "1.2.0",
+                      "author":  "MrGhozzi",
+                      "description":  "Cookie-less tracking and analytics for MYADS, fully compliant with GDPR, CCPA, and DNT.",
+                      "min_myads":  "4.3.0",
+                      "product_url":  "https://github.com/mrghozzi/my-statistics",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/my-statistics/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/my-statistics/releases/latest/download/my-statistics.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "MyAds Bot",
+                      "slug":  "myads-bot",
+                      "version":  "1.4.0",
+                      "author":  "MrGhozzi",
+                      "description":  "An autonomous AI bot dedicated to the MyAds script — monitors GitHub releases, manages the knowledgebase, replies to messages and comments, and publishes updates automatically.",
+                      "min_myads":  "4.3.6",
+                      "product_url":  "https://github.com/mrghozzi/myads-bot",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/myads-bot/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/myads-bot/releases/latest/download/myads-bot.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Smart Post Translator",
+                      "slug":  "smart-post-translator",
+                      "version":  "1.0.0",
+                      "author":  "MrGhozzi",
+                      "description":  "Smart AI Translator for posts using Groq or Gemini API via AJAX without reloading the page.",
+                      "min_myads":  "4.3.0",
+                      "product_url":  "https://github.com/mrghozzi/smart-post-translator",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/smart-post-translator/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/smart-post-translator/releases/latest/download/smart-post-translator.zip",
+                      "category":  "plugins"
+                  },
+                  {
+                      "name":  "Support Chat",
+                      "slug":  "support-chat",
+                      "version":  "1.0.1",
+                      "author":  "MrGhozzi",
+                      "description":  "Adds local support chat, WhatsApp, and Messenger support channels with an admin inbox inside MYADS.",
+                      "min_myads":  "4.2.4",
+                      "product_url":  "https://github.com/mrghozzi/support-chat",
+                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/support-chat/main/thumbnail.png",
+                      "download_url":  "https://github.com/mrghozzi/support-chat/releases/latest/download/support-chat.zip",
+                      "category":  "plugins"
+                  }
+              ]
+}
