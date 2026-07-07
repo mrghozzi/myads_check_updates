@@ -1,4 +1,4 @@
-{
+﻿{
     "items":  [
                   {
                       "name":  "AI Ad Copywriter",
@@ -37,30 +37,6 @@
                       "category":  "plugins"
                   },
                   {
-                      "name":  "Groq AI Member",
-                      "slug":  "groq-ai-member",
-                      "version":  "1.3.1",
-                      "author":  "MrGhozzi",
-                      "description":  "An autonomous AI bot that uses Groq Cloud API to act as a platform member (posts, replies, and comments).",
-                      "min_myads":  "4.3.4",
-                      "product_url":  "https://github.com/mrghozzi/groq-ai-member",
-                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/groq-ai-member/main/thumbnail.png",
-                      "download_url":  "https://github.com/mrghozzi/groq-ai-member/releases/latest/download/groq-ai-member.zip",
-                      "category":  "plugins"
-                  },
-                  {
-                      "name":  "Groq AI Members",
-                      "slug":  "groq-ai-members",
-                      "version":  "1.0.2",
-                      "author":  "MrGhozzi",
-                      "description":  "An autonomous AI bot system that uses Groq Cloud API to act as multiple platform members (posts, replies, and comments).",
-                      "min_myads":  "4.3.6",
-                      "product_url":  "https://github.com/mrghozzi/groq-ai-members",
-                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/groq-ai-members/main/thumbnail.png",
-                      "download_url":  "https://github.com/mrghozzi/groq-ai-members/releases/latest/download/groq-ai-members.zip",
-                      "category":  "plugins"
-                  },
-                  {
                       "name":  "Broken Link Checker",
                       "slug":  "link-checker",
                       "version":  "1.1.0",
@@ -82,18 +58,6 @@
                       "product_url":  "https://github.com/mrghozzi/my-statistics",
                       "image_url":  "https://raw.githubusercontent.com/mrghozzi/my-statistics/main/thumbnail.png",
                       "download_url":  "https://github.com/mrghozzi/my-statistics/releases/latest/download/my-statistics.zip",
-                      "category":  "plugins"
-                  },
-                  {
-                      "name":  "MyAds Bot",
-                      "slug":  "myads-bot",
-                      "version":  "1.4.0",
-                      "author":  "MrGhozzi",
-                      "description":  "An autonomous AI bot dedicated to the MyAds script — monitors GitHub releases, manages the knowledgebase, replies to messages and comments, and publishes updates automatically.",
-                      "min_myads":  "4.3.6",
-                      "product_url":  "https://github.com/mrghozzi/myads-bot",
-                      "image_url":  "https://raw.githubusercontent.com/mrghozzi/myads-bot/main/thumbnail.png",
-                      "download_url":  "https://github.com/mrghozzi/myads-bot/releases/latest/download/myads-bot.zip",
                       "category":  "plugins"
                   },
                   {
