@@ -3,7 +3,7 @@
                   {
                       "name":  "AI Ad Copywriter",
                       "slug":  "ai-ad-copywriter",
-                      "version":  "1.2.0",
+                      "version":  "1.2.1",
                       "author":  "MrGhozzi",
                       "description":  "Generate catchy ad titles and descriptions using Gemini 3 Flash \u0026 Groq AI.",
                       "min_myads":  "4.3.0",
@@ -15,7 +15,7 @@
                   {
                       "name":  "AI Member",
                       "slug":  "ai-member",
-                      "version":  "1.3.0",
+                      "version":  "1.3.2",
                       "author":  "MrGhozzi",
                       "description":  "An autonomous AI bot that acts as a platform member (posts, replies to messages, comments, and generates images).",
                       "min_myads":  "4.3.4",
@@ -39,9 +39,9 @@
                   {
                       "name":  "Broken Link Checker",
                       "slug":  "link-checker",
-                      "version":  "1.1.0",
+                      "version":  "1.2.0",
                       "author":  "MrGhozzi",
-                      "description":  "Scans all external URLs across Directory, Store, Banner Ads, Link Ads, Smart Ads, and Visit Exchange to detect broken links. Access it at /admin/link-checker.",
+                      "description":  "AI-powered scanner using Groq API. Scans and reports bad links in Posts, Ads, Directory, Store, and Visits. Access it at /admin/link-checker.",
                       "min_myads":  "4.3.3",
                       "product_url":  "https://github.com/mrghozzi/link-checker",
                       "image_url":  "https://raw.githubusercontent.com/mrghozzi/link-checker/main/thumbnail.png",
