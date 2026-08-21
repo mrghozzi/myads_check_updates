@@ -85,11 +85,23 @@
             "category": "plugins"
         },
         {
+            "name": "Social Auto Poster",
+            "slug": "myads-social-auto-poster",
+            "version": "1.0.0",
+            "author": "MrGhozzi",
+            "description": "Automated multi-channel broadcasting of topics, videos, products, and news to Telegram, Facebook, X (Twitter), Discord, and ADStn Network.",
+            "min_myads": "4.5.0",
+            "product_url": "https://github.com/mrghozzi/myads-social-auto-poster",
+            "image_url": "https://raw.githubusercontent.com/mrghozzi/myads-social-auto-poster/main/thumbnail.png",
+            "download_url": "https://github.com/mrghozzi/myads-social-auto-poster/releases/latest/download/myads-social-auto-poster.zip",
+            "category": "plugins"
+        },
+        {
             "name": "Support Chat",
             "slug": "support-chat",
-            "version": "1.0.1",
+            "version": "1.2.0",
             "author": "MrGhozzi",
-            "description": "Adds local support chat, WhatsApp, and Messenger support channels with an admin inbox inside MYADS.",
+            "description": "Multi-channel local and external support chat powered by a multi-provider AI engine (Pollinations, Groq, Gemini, OpenAI) with a modern .superdesign admin dashboard.",
             "min_myads": "4.2.4",
             "product_url": "https://github.com/mrghozzi/support-chat",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/support-chat/main/thumbnail.png",
