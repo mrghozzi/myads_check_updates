@@ -1,3 +1,16 @@
 {
-    "items": []
+    "items": [
+        {
+            "name": "Bootstrap Sample",
+            "slug": "bootstrap-sample",
+            "version": "2.0.0",
+            "author": "MrGhozzi",
+            "description": "A responsive Bootstrap 5.3.3 theme for MyAds with Superdesign Messaging, Live Theme Customizer & Real-Time SSE Stream support.",
+            "min_myads": "4.5.5",
+            "product_url": "https://github.com/mrghozzi/MyAds_bootstrap_sample",
+            "image_url": "https://raw.githubusercontent.com/mrghozzi/MyAds_bootstrap_sample/master/screenshot.png",
+            "download_url": "https://github.com/mrghozzi/MyAds_bootstrap_sample/archive/refs/heads/master.zip",
+            "category": "themes"
+        }
+    ]
 }
