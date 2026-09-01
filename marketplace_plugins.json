@@ -9,7 +9,7 @@
             "min_myads": "4.3.0",
             "product_url": "https://github.com/mrghozzi/ai-ad-copywriter",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/ai-ad-copywriter/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/ai-ad-copywriter/releases/latest/download/ai-ad-copywriter.zip",
+            "download_url": "https://github.com/mrghozzi/ai-ad-copywriter/archive/refs/tags/v1.2.1.zip",
             "category": "plugins"
         },
         {
@@ -21,7 +21,7 @@
             "min_myads": "4.3.4",
             "product_url": "https://github.com/mrghozzi/ai-member",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/ai-member/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/ai-member/releases/latest/download/ai-member.zip",
+            "download_url": "https://github.com/mrghozzi/ai-member/archive/refs/tags/v1.3.2.zip",
             "category": "plugins"
         },
         {
@@ -33,7 +33,7 @@
             "min_myads": "4.3.3",
             "product_url": "https://github.com/mrghozzi/arabic-fixer",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/arabic-fixer/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/arabic-fixer/releases/latest/download/arabic-fixer.zip",
+            "download_url": "https://github.com/mrghozzi/arabic-fixer/archive/refs/tags/v2.3.zip",
             "category": "plugins"
         },
         {
@@ -45,7 +45,7 @@
             "min_myads": "4.3.3",
             "product_url": "https://github.com/mrghozzi/link-checker",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/link-checker/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/link-checker/releases/latest/download/link-checker.zip",
+            "download_url": "https://github.com/mrghozzi/link-checker/archive/refs/tags/v1.2.0.zip",
             "category": "plugins"
         },
         {
@@ -57,7 +57,7 @@
             "min_myads": "4.5.0",
             "product_url": "https://github.com/mrghozzi/myads-instant-indexer",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/myads-instant-indexer/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/myads-instant-indexer/releases/latest/download/myads-instant-indexer.zip",
+            "download_url": "https://github.com/mrghozzi/myads-instant-indexer/archive/refs/tags/v1.0.0.zip",
             "category": "plugins"
         },
         {
@@ -69,7 +69,7 @@
             "min_myads": "4.3.0",
             "product_url": "https://github.com/mrghozzi/my-statistics",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/my-statistics/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/my-statistics/releases/latest/download/my-statistics.zip",
+            "download_url": "https://github.com/mrghozzi/my-statistics/archive/refs/tags/v1.2.0.zip",
             "category": "plugins"
         },
         {
@@ -81,7 +81,7 @@
             "min_myads": "4.3.0",
             "product_url": "https://github.com/mrghozzi/smart-post-translator",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/smart-post-translator/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/smart-post-translator/releases/latest/download/smart-post-translator.zip",
+            "download_url": "https://github.com/mrghozzi/smart-post-translator/archive/refs/tags/v1.0.0.zip",
             "category": "plugins"
         },
         {
@@ -93,7 +93,7 @@
             "min_myads": "4.5.0",
             "product_url": "https://github.com/mrghozzi/myads-social-auto-poster",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/myads-social-auto-poster/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/myads-social-auto-poster/releases/latest/download/myads-social-auto-poster.zip",
+            "download_url": "https://github.com/mrghozzi/myads-social-auto-poster/archive/refs/tags/v1.0.0.zip",
             "category": "plugins"
         },
         {
@@ -105,7 +105,7 @@
             "min_myads": "4.2.4",
             "product_url": "https://github.com/mrghozzi/support-chat",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/support-chat/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/support-chat/releases/latest/download/support-chat.zip",
+            "download_url": "https://github.com/mrghozzi/support-chat/archive/refs/tags/v1.2.0.zip",
             "category": "plugins"
         }
     ]
