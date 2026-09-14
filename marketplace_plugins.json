@@ -3,13 +3,13 @@
         {
             "name": "AI Ad Copywriter",
             "slug": "ai-ad-copywriter",
-            "version": "1.2.1",
+            "version": "1.2.2",
             "author": "MrGhozzi",
             "description": "Generate catchy ad titles and descriptions using Gemini 3 Flash & Groq AI.",
-            "min_myads": "4.3.0",
+            "min_myads": "4.5.6",
             "product_url": "https://github.com/mrghozzi/ai-ad-copywriter",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/ai-ad-copywriter/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/ai-ad-copywriter/archive/refs/tags/v1.2.1.zip",
+            "download_url": "https://github.com/mrghozzi/ai-ad-copywriter/archive/refs/tags/v1.2.2.zip",
             "category": "plugins"
         },
         {
