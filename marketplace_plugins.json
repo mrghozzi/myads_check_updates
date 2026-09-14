@@ -75,13 +75,13 @@
         {
             "name": "Smart Post Translator",
             "slug": "smart-post-translator",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "author": "MrGhozzi",
             "description": "Smart AI Translator for posts using Groq or Gemini API via AJAX without reloading the page.",
-            "min_myads": "4.3.0",
+            "min_myads": "4.5.6",
             "product_url": "https://github.com/mrghozzi/smart-post-translator",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/smart-post-translator/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/smart-post-translator/archive/refs/tags/v1.0.0.zip",
+            "download_url": "https://github.com/mrghozzi/smart-post-translator/archive/refs/tags/v1.1.0.zip",
             "category": "plugins"
         },
         {
