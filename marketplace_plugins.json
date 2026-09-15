@@ -107,6 +107,18 @@
             "image_url": "https://raw.githubusercontent.com/mrghozzi/support-chat/main/thumbnail.png",
             "download_url": "https://github.com/mrghozzi/support-chat/archive/refs/tags/v1.2.0.zip",
             "category": "plugins"
+        },
+        {
+            "name": "Smart Social OG Cards",
+            "slug": "smart-social-cards",
+            "version": "1.0.0",
+            "author": "MrGhozzi",
+            "description": "Dynamic high-resolution 1200x630 OpenGraph & Twitter cards generator for topics, products, videos, and news with real-time caching and .superdesign preview.",
+            "min_myads": "4.5.6",
+            "product_url": "https://github.com/mrghozzi/smart-social-cards",
+            "image_url": "https://raw.githubusercontent.com/mrghozzi/smart-social-cards/main/thumbnail.png",
+            "download_url": "https://github.com/mrghozzi/smart-social-cards/archive/refs/tags/v1.0.0.zip",
+            "category": "plugins"
         }
     ]
 }
