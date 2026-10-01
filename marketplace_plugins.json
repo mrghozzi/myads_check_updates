@@ -119,6 +119,19 @@
             "image_url": "https://raw.githubusercontent.com/mrghozzi/smart-social-cards/main/thumbnail.png",
             "download_url": "https://github.com/mrghozzi/smart-social-cards/archive/refs/tags/v1.0.0.zip",
             "category": "plugins"
+        },
+        {
+            "name": "Migration Manager",
+            "slug": "migration-manager",
+            "version": "1.0.0",
+            "author": "MrGhozzi",
+            "description": "Professional database migration manager and health inspector for MYADS. Detects pending migrations, ghost records, and missing tables with 1-click execution.",
+            "min_myads": "4.5.6",
+            "product_url": "https://github.com/mrghozzi/myads-migration-manager",
+            "image_url": "https://raw.githubusercontent.com/mrghozzi/myads-migration-manager/main/thumbnail.png",
+            "download_url": "https://github.com/mrghozzi/myads-migration-manager/archive/refs/tags/v1.0.0.zip",
+            "category": "plugins"
         }
     ]
 }
+
