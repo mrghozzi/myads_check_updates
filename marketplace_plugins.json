@@ -63,13 +63,13 @@
         {
             "name": "MyStatistics",
             "slug": "my-statistics",
-            "version": "1.2.0",
+            "version": "2.0.0",
             "author": "MrGhozzi",
             "description": "Cookie-less tracking and analytics for MYADS, fully compliant with GDPR, CCPA, and DNT.",
-            "min_myads": "4.3.0",
+            "min_myads": "4.5.6",
             "product_url": "https://github.com/mrghozzi/my-statistics",
             "image_url": "https://raw.githubusercontent.com/mrghozzi/my-statistics/main/thumbnail.png",
-            "download_url": "https://github.com/mrghozzi/my-statistics/archive/refs/tags/v1.2.0.zip",
+            "download_url": "https://github.com/mrghozzi/my-statistics/archive/refs/tags/2.0.0.zip",
             "category": "plugins"
         },
         {
@@ -134,4 +134,3 @@
         }
     ]
 }
-
